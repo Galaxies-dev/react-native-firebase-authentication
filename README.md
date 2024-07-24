@@ -1,6 +1,6 @@
 # React Native Firebase Authentication with Expo Router
 
-Check out the full [video tutorial](https://www.youtube.com/@galaxies_dev) and also [the written tutorial on Galaxies.dev](https://galaxies.dev/react-native-firebase-authentication-expo-router)!
+Check out the full [video tutorial](https://youtu.be/BsOik6ycGqk) and also [the written tutorial on Galaxies.dev](https://galaxies.dev/react-native-firebase-authentication-expo-router)!
 
 
 ## 🚀 How to use
